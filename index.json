@@ -1,0 +1,524 @@
+{
+  "library": "karoryfer.cowsynth",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/karoryfer.cowsynth",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/cowsynth-opus-48",
+  "branch": "master",
+  "fileCount": 40,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/",
+  "files": [
+    {
+      "file": "b5_trill.opus",
+      "name": "b5_trill.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/b5_trill.opus",
+      "size": 22905,
+      "note": "b5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c5_trill.opus",
+      "name": "c5_trill.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/c5_trill.opus",
+      "size": 11299,
+      "note": "c5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "cchirp_1.opus",
+      "name": "cchirp_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/cchirp_1.opus",
+      "size": 1089,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "cchirp_2.opus",
+      "name": "cchirp_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/cchirp_2.opus",
+      "size": 1194,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "cchirp_3.opus",
+      "name": "cchirp_3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/cchirp_3.opus",
+      "size": 1297,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "cchirp_4.opus",
+      "name": "cchirp_4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/cchirp_4.opus",
+      "size": 1131,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "cchirp_5.opus",
+      "name": "cchirp_5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/cchirp_5.opus",
+      "size": 1164,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "g5_trill.opus",
+      "name": "g5_trill.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/g5_trill.opus",
+      "size": 8253,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_a2.opus",
+      "name": "natural_a2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_a2.opus",
+      "size": 136649,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_a3.opus",
+      "name": "natural_a3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_a3.opus",
+      "size": 126506,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_a5_fake.opus",
+      "name": "natural_a5_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_a5_fake.opus",
+      "size": 21983,
+      "note": "a5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_a6_fake.opus",
+      "name": "natural_a6_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_a6_fake.opus",
+      "size": 17118,
+      "note": "a6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_c4.opus",
+      "name": "natural_c4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_c4.opus",
+      "size": 37558,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_c7_fake.opus",
+      "name": "natural_c7_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_c7_fake.opus",
+      "size": 5583,
+      "note": "c7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_d4.opus",
+      "name": "natural_d4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_d4.opus",
+      "size": 50630,
+      "note": "d4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_d7_fake.opus",
+      "name": "natural_d7_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_d7_fake.opus",
+      "size": 6663,
+      "note": "d7",
+      "midiNote": 98,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_e4.opus",
+      "name": "natural_e4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_e4.opus",
+      "size": 78793,
+      "note": "e4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_e7_fake.opus",
+      "name": "natural_e7_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_e7_fake.opus",
+      "size": 11083,
+      "note": "e7",
+      "midiNote": 100,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_f3.opus",
+      "name": "natural_f3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_f3.opus",
+      "size": 34859,
+      "note": "f3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_f6_fake.opus",
+      "name": "natural_f6_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_f6_fake.opus",
+      "size": 6151,
+      "note": "f6",
+      "midiNote": 89,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_g2.opus",
+      "name": "natural_g2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_g2.opus",
+      "size": 125188,
+      "note": "g2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_g3.opus",
+      "name": "natural_g3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_g3.opus",
+      "size": 36460,
+      "note": "g3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_g5_fake.opus",
+      "name": "natural_g5_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_g5_fake.opus",
+      "size": 20678,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "natural_g6_fake.opus",
+      "name": "natural_g6_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/natural_g6_fake.opus",
+      "size": 4665,
+      "note": "g6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_a2.opus",
+      "name": "tuned_a2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_a2.opus",
+      "size": 136679,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_a3.opus",
+      "name": "tuned_a3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_a3.opus",
+      "size": 133383,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_a5_fake.opus",
+      "name": "tuned_a5_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_a5_fake.opus",
+      "size": 21347,
+      "note": "a5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_a6_fake.opus",
+      "name": "tuned_a6_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_a6_fake.opus",
+      "size": 18926,
+      "note": "a6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_c4.opus",
+      "name": "tuned_c4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_c4.opus",
+      "size": 69283,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_c7_fake.opus",
+      "name": "tuned_c7_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_c7_fake.opus",
+      "size": 9886,
+      "note": "c7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_d4.opus",
+      "name": "tuned_d4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_d4.opus",
+      "size": 80739,
+      "note": "d4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_d7_fake.opus",
+      "name": "tuned_d7_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_d7_fake.opus",
+      "size": 10740,
+      "note": "d7",
+      "midiNote": 98,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_e4.opus",
+      "name": "tuned_e4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_e4.opus",
+      "size": 80229,
+      "note": "e4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_e7_fake.opus",
+      "name": "tuned_e7_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_e7_fake.opus",
+      "size": 11391,
+      "note": "e7",
+      "midiNote": 100,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_f3.opus",
+      "name": "tuned_f3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_f3.opus",
+      "size": 37015,
+      "note": "f3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_f6_fake.opus",
+      "name": "tuned_f6_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_f6_fake.opus",
+      "size": 6729,
+      "note": "f6",
+      "midiNote": 89,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_g2.opus",
+      "name": "tuned_g2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_g2.opus",
+      "size": 127539,
+      "note": "g2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_g3.opus",
+      "name": "tuned_g3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_g3.opus",
+      "size": 39612,
+      "note": "g3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_g5_fake.opus",
+      "name": "tuned_g5_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_g5_fake.opus",
+      "size": 20974,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "tuned_g6_fake.opus",
+      "name": "tuned_g6_fake.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/cowsynth-opus-48/master/tuned_g6_fake.opus",
+      "size": 7042,
+      "note": "g6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "43": [
+      "natural_g2.opus",
+      "tuned_g2.opus"
+    ],
+    "45": [
+      "natural_a2.opus",
+      "tuned_a2.opus"
+    ],
+    "53": [
+      "natural_f3.opus",
+      "tuned_f3.opus"
+    ],
+    "55": [
+      "natural_g3.opus",
+      "tuned_g3.opus"
+    ],
+    "57": [
+      "natural_a3.opus",
+      "tuned_a3.opus"
+    ],
+    "60": [
+      "natural_c4.opus",
+      "tuned_c4.opus"
+    ],
+    "62": [
+      "natural_d4.opus",
+      "tuned_d4.opus"
+    ],
+    "64": [
+      "natural_e4.opus",
+      "tuned_e4.opus"
+    ],
+    "72": [
+      "c5_trill.opus"
+    ],
+    "79": [
+      "g5_trill.opus",
+      "natural_g5_fake.opus",
+      "tuned_g5_fake.opus"
+    ],
+    "81": [
+      "natural_a5_fake.opus",
+      "tuned_a5_fake.opus"
+    ],
+    "83": [
+      "b5_trill.opus"
+    ],
+    "89": [
+      "natural_f6_fake.opus",
+      "tuned_f6_fake.opus"
+    ],
+    "91": [
+      "natural_g6_fake.opus",
+      "tuned_g6_fake.opus"
+    ],
+    "93": [
+      "natural_a6_fake.opus",
+      "tuned_a6_fake.opus"
+    ],
+    "96": [
+      "natural_c7_fake.opus",
+      "tuned_c7_fake.opus"
+    ],
+    "98": [
+      "natural_d7_fake.opus",
+      "tuned_d7_fake.opus"
+    ],
+    "100": [
+      "natural_e7_fake.opus",
+      "tuned_e7_fake.opus"
+    ]
+  }
+}
